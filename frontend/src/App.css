@@ -1,0 +1,13 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Times New Roman', Times, serif;
+	background-color: #0a2351;
+	color: #fff;
+	/* color: #000000; */
+}
+
+html {
+	scroll-behavior: smooth;
+}
