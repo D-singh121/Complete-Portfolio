@@ -19,8 +19,8 @@ const Heropage = () => {
 
 				<div className="">
 					<div className="bg-red-300 w-[250px] h-[250px] rounded-full flex justify-center items-center  bg-gradient-to-tr from-pink-500 to-cyan-400">
-						<div className="bg-white w-[240px] h-[240px] rounded-full  m-auto overflow-hidden bg-cover">
-							<img src="../../public/my_image.jpg" alt="profile pic" />
+						<div className=" w-[240px] h-[240px] rounded-full m-auto overflow-hidden bg-cover items-center flex justify-center">
+							<img src="/myimage.png" alt="profile pic" />
 						</div>
 					</div>
 				</div>
