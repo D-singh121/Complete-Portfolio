@@ -1,3 +1,4 @@
+import { IoDownloadOutline } from "react-icons/io5";
 
 
 
@@ -14,7 +15,7 @@ const Heropage = () => {
 						<h1>A FullStack Devloper & DevOps </h1>
 					</div>
 
-					<a href="/FullStack_bg.png" download="FullStack_bg.png"><button type="button" className="px-3 py-1.5 border-none rounded-3xl mt-4  text-m  bg-blue-800"> Get Resume</button></a>
+					<a href="/FullStack_bg.png" download="FullStack_bg.png"><button type="button" className="px-5 py-2.5 flex justify-between gap-2 items-center border-none rounded-3xl mt-4  text-lg  bg-blue-800 hover:bg-blue-900"> <IoDownloadOutline style={{ backgroundColor:"rgb(30 64 175)", background:"transparent", fontSize:"22px"  }} /> Download Resume</button></a>
 				</div>
 
 				<div className="">
