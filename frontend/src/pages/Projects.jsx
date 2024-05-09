@@ -16,7 +16,7 @@ const Projects = () => {
 						title="Moviemania-Netflix clone"
 						description="MovieMania is a web application inspired by Netflix, allowing users to discover and watch movies. It utilizes the MERN stack for a robust and scalable architecture."
 						stack="MongoDB, Express.js, React.js, TMDB and Node.js "
-						liveLink=""
+						liveLink="https://moviemania-netflix-clone-devesh-choudharys-projects.vercel.app"
 						gitLink="https://github.com/D-singh121/moviemania_netflix_clone"
 					/>
 
@@ -35,7 +35,7 @@ const Projects = () => {
 						title="Job Seeking app"
 						description="This is Job seeking app on which user can signup and login based on their roles. After successfull login they can post a job or apply for job. all jobs are stored in database.  "
 						stack="Reactjs ,Nodejs,Express ,MongoDB ,Multer ,Cloudnary"
-						liveLink=""
+						liveLink="https://mern-jobseeking-app-devesh-choudharys-projects.vercel.app"
 						gitLink="https://github.com/D-singh121/MERN_Jobseeking_app"
 					/>
 
